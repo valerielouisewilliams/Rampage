@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "rampage-vandyhacks",
+  "private_key_id": "e7d6ba56a987d809f9879f21ba90728e2b4fe500",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+dv/1L7Re6RMe\ns4D38OAXLZHXtOpLT6fAFtmPnW5tbMY/vTE2IsQruT34dNiqXUMci8HsyZOPmyy/\n0zVHiMYB9/cHFNX1KUaAryxvB1wlmRt9LgFSgQJCceqwQs/fBY0jErnAxXE8Ug4w\nWVJupao7YmFc9om0WAu7igNFW3byv0uGUoU95QUadMhUF1/v3uP0b0fupDMa3BP1\n3Y0dm1OPFJvUvnu9BfewnJqDWVCegkJKQtfrluZhCd03TOa1ck22uEtYDTsaYQk2\nGiALyHRMdcVWf0E/pUC4Nr9a3Xtyg3mr2FHEdnB7jxr3Y06FruKY3EKSWmrXtSV2\n2G4sCQgtAgMBAAECggEAKV37NauIx1xj9LUT+8XrRd114Z2/jV/dlVDhK9oLk+Se\nIlXbDGD8rmprVT07mbTr0JViJyWY0QXo8DjVR5YjO2Y51uXlmnu+flCNnAfDMb9R\nQxzs2JiAfyHy0RmRwGSaRNXaVk4LzAgeYM3lo3aDxKYXc3NwcST2V2MgVr4I1avq\nrhSGj9bCHPAYPaAA7EfTjfHABFHPxuYmmzVcKOvHno9UUlB7QPdS1w2ma+4ewRTe\nJ23XUhXXOTk11MW27vtFrr2ZsOeQxRLIi+rNPtAznNw6vUJd7G9xSvBkHojLcfe8\nT0lQNzo7gWRYnaD6t4qBLFreLuDEqEV789KNsONbwQKBgQDiie9/YLEYXQMpfP8h\n2lT97ZhytEeEhDoXqBwnptGIP0zQ0BpTNKJOSUbsuzguv3z82woQ9Xri7Q0HH9oe\nhNLBw/FoE7Em+0WJpuC6e0mb7aEf42O4c4y4dpF1i82QOP9yLBIy+AAchOSM5S41\nVaI4gbSowQwBj/hw722vAGdB1QKBgQDXPBGAu1TENQFM3oAK7ewHOzltj4Gxj6fk\nwThu4hanHpeTvQKWgO7etGj341ArRhUBA4btTpNEZWlyhr+VbGbq6NN4Nem8MuYp\nSlEm8n0AyCd+Leq8y7YomtJN0iOhggviQGazRiQx3ttLYf8jCL9+1rs2gieblXdZ\nwKwmPDIA+QKBgQCKfMhsli+tNS85rbBKga5zjUwk0xDlcfARhjOwCcsN/6R2AsIV\nG5gdQ66YCdvOuEEwUrdUprz4/PF56X7uKUSuL5rkhSVHL1TTUbEQT04whJR7agcM\nO5dLLTC/Kzf/cti2czqs7e8jgBo4B+K3uCHzaVeH0nwEeH7oi3YCBb0aAQKBgGJ4\n+QkMrBuYpJ+mrK5TbElir0ORBKVYNFhUjp0sk3CibncJYsW495CsudmwBl3GEpYE\nJxcre/Uu8K+VNtIGZo/TNe0pvWZ9YxBBEB/hkY9qA6eXGm6GRTEOpGk2W1bpSMaa\n8GHVFXo7m9lBXJmKxxIg7EZkBfsIxzIpFJnpsHcBAoGBAJizxcwViLeHUDWTLMUB\n7/CBZ/Pgn19iaaIPRdjravIWcn7UPZhJG3BMTFYM+aUjEJYoodlrUnWSRzgfjq3f\n/gVh0YG8dFn2vJvxXnP1P9ygD1t1nfVgejzjfZCGKXjTFPHkUQKsqnnAJ/9t4t4J\n3ihUKVLDHTkHLlanvtmaAici\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-hkby2@rampage-vandyhacks.iam.gserviceaccount.com",
+  "client_id": "101491060784071625618",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-hkby2%40rampage-vandyhacks.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
